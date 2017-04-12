@@ -27,7 +27,7 @@ public class Spot {
   public Piece releaseSpot() {
     Piece releasedPiece = this.piece;
     this.piece = null;
-    return releastedPiece;
+    return releasedPiece;
   }
 
 }
