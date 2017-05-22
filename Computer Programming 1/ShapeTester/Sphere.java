@@ -1,3 +1,5 @@
+// Nastassja Motro
+
 public class Sphere {
 
     // member variables
