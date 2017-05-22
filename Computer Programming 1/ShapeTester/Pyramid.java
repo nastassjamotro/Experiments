@@ -1,3 +1,5 @@
+// Nastassja Motro
+
 public class Pyramid {
 
     // member variables
