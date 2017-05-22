@@ -1,3 +1,5 @@
+// Nastassja Motro
+
 package shapes;
 
 public class Rectangle extends Shape {
