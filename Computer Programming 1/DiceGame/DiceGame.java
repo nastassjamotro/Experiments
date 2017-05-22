@@ -1,3 +1,5 @@
+// Nastassja Motro
+
 import java.util.Random;
 
 public class DiceGame {
